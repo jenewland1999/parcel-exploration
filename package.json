@@ -1,0 +1,27 @@
+{
+  "name": "parcel-exploration",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A first-look at a immerging technology called Parcel. This technology is a smart zero-configuration web application bundler. It removes the need for any configuration unlike its competitors like Webpack or Bower making it well-liked by the community. Going forward this will likely be a widely-used technology and as such I've taken the time to look into it and create this small boilerplate project using it.",
+  "scripts": {
+    "dev": "parcel index.html --open",
+    "prod": "parcel build index.html",
+    "start": "npm run dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "jenewland1999 <hello@jenewland.me.uk> (https://jenewland.me.uk)",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^8.6.5",
+    "postcss": "^6.0.23",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.9.4",
+    "standard": "^11.0.1"
+  }
+}
