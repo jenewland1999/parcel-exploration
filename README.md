@@ -4,11 +4,11 @@ A first-look at a emerging technology called Parcel. This technology is a smart 
 
 Want to learn more about Parcel? Check out their website by going to [https://parceljs.org](https://parceljs.org)
 
-#### License
+## License
 
 This project is licensed under the MIT License. You can view the full license [here](LICENSE).
 
-#### Credits
+## Credits
 
 Credit to LearnCode.academy for showcasing this amazing package via his YouTube channel. You can watch his introductory video using the following link.
 
